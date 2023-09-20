@@ -5,11 +5,12 @@ authors:
 - admin
 superuser: false
 ---
-## Welcome to CAIS 2024: Leaps & Stumbles
-
 52nd Annual Conference of the Canadian Association for Information Science /
 <br>l’Association canadienne des sciences de l’information (CAIS/ACSI)
 <br>June 4-7, 2024
+
+## Welcome to CAIS 2024: Leaps & Stumbles
+
 
 The Canadian Association for Information Science / l’Association canadienne des sciences de l’information (CAIS/ACSI) invites submissions for its 52nd Annual Conference, June 4-7, 2024. For the fifth year in a row, the conference will be free and open to all, online.
 
