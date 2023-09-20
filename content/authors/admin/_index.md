@@ -22,9 +22,9 @@ Not every leap sticks the landing. Every successful researcher has experienced s
 
 For the 52nd annual conference of the Canadian Association for Information Science, we invite research that proposes or makes conceptual, empirical, theoretical, applied, and/or methodological leaps. We also invite contributions that discuss research stumbles, falls, and recoveries.
 
-Registration: The conference will be free and open to all, with no registration necessary.
+<strong>Registration</strong>: The conference will be free and open to all, with no registration necessary.
 
-Types of proposals
+## Types of proposals
 
 CAIS/ACSI welcomes proposals for papers, lightning talks, or panels focused on empirical, theoretical, and practice-based research. Proposals may be submitted in English or French. All proposals will undergo double-blind peer review, and should be scrubbed of personally identifying information upon initial submission.
 
