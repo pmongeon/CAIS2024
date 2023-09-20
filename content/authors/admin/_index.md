@@ -37,7 +37,7 @@ CAIS/ACSI welcomes proposals for papers, lightning talks, or panels focused on e
 
 CAIS/ACSI is additionally happy to accept proposals on any topics under the LIS disciplinary umbrella. Diverse and innovative perspectives (theoretical and applied) and methodologies are welcome.
 
-Proposals should be in the form of an extended abstract (approximately 1000-1500 words excluding references). Please see our helpful advice for writing an extended abstract and use this template to submit. (note: if you are having difficulties downloading the template, try opening the link in a new window or tab, or using the Save as function).
+Proposals should be in the form of an extended abstract (approximately 1000-1500 words excluding references). Please see our <a href="Extended-Abstract-Writing-Guide.pdf">helpful advice for writing an extended abstract</a> and use this template to submit. (note: if you are having difficulties downloading the template, try opening the link in a new window or tab, or using the Save as function).
 
 <strong>Lightning Talks</strong>: Visual presentations of projects at any stage of development on topics suitable for publication in scholarly journals. Diverse perspectives (theoretical and applied) and methodologies are welcomed. Proposals should be in the form of a short abstract (maximum 750 words excluding references), reporting on research projects, theoretical developments or innovative practical applications. Presenters of accepted talks will also be invited to provide a 5-7 minute overview of their work. Please use this template (note: if you are having difficulties downloading the template, try opening the link in a new window or tab, or using the Save as function).
 
