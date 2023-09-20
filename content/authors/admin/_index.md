@@ -49,7 +49,7 @@ Proposals will be evaluated wholistically on clarity, impact/originality, overal
 
 To participate in the Forum, please fill out the following submission form.
 
-Student-to-CAIS/ACSI & Best Paper by a Practitioner Awards: Paper proposals by graduate students and practitioners will be considered for these awards. The Student-to-CAIS/ACSI award includes a monetary prize. Both awardees will have the opportunity to publish the full manuscript in the Canadian Journal of Information and Library Science / La Revue canadienne des sciences de l’information et de bibliothéconomie. In order to be considered for these awards, please indicate if you are a student or practitioner when submitting your proposal. Winners will be selected based on their extended abstracts. Details of the award, including previous winners, can be found at the CAIS/ACSI website at www.cais-acsi.ca
+<strong>Student-to-CAIS/ACSI & Best Paper by a Practitioner Awards</strong>: Paper proposals by graduate students and practitioners will be considered for these awards. The Student-to-CAIS/ACSI award includes a monetary prize. Both awardees will have the opportunity to publish the full manuscript in the Canadian Journal of Information and Library Science / La Revue canadienne des sciences de l’information et de bibliothéconomie. In order to be considered for these awards, please indicate if you are a student or practitioner when submitting your proposal. Winners will be selected based on their extended abstracts. Details of the award, including previous winners, can be found at the CAIS/ACSI website at www.cais-acsi.ca
 
 <strong>Deadlines</strong>:
 
