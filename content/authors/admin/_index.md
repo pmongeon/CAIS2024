@@ -53,7 +53,7 @@ To participate in the Forum, <a href="https://forms.gle/HE3t4gim3XSym6eH9">pleas
 
 <strong>Deadlines</strong>:
 
-The <strong>extended</strong> submission deadline for all proposals is <strong>January 22, 2024, midnight Pacific Time</strong>. Initial submissions should be scrubbed of identifying information for double-blind peer review.
+The <strong>extended</strong> submission deadline for all proposals is <strong>February 5, 2024, midnight Pacific Time</strong>. Initial submissions should be scrubbed of identifying information for double-blind peer review.
 
 Authors will be notified no later than March 15, 2024. Final versions must be submitted no later than April 30, 2024, and will then be published on the conference website and in the conference proceedings.
 
