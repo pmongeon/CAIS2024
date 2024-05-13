@@ -369,21 +369,16 @@ For the 52nd annual conference of the Canadian Association for Information Scien
 
   <tr>
     <td colspan=2>Break</td>
-    <td colspan=4>4:00pm - 4:30pm</td>
+    <td colspan=4>4:15pm - 5:00pm</td>
   </tr>
 
   <tr>
-    <td colspan=2 rowspan=2>LIS Education</br><i>Moderator: Stacy Allison-Cassin</i></td>
-    <td colspan=2>4:30am - 5:00pm</td>
-    <td colspan=2><strong><a href="https://www.cais2023.ca/talk/23.Rathi/">Doctoral Degree Programs and Soft Skills: Reflections by Faculty Members</a></strong><br>
-        <i>Dinesh Rathi, Jennifer Branch-Mueller and Crystal Stang</i>
+    <td colspan=2><a href="https://westernuniversity.zoom.us/j/91531028175">CLOSING KEYNOTE</i></td>
+    <td colspan=2>5:00am - 6:30pm</td>
+    <td colspan=2><strong><a href="https://www.cais2023.ca/talk/23.Rathi/">TBA</a></strong><br>
+        <i>Maggie Gordon</i>
   </tr>
-    
-  <tr>
-    <td colspan=2>5:00am - 5:30pm</td>
-    <td colspan=2><strong><a href="https://www.cais2023.ca/talk/24.Dold/">The Erasure Of Women From The History Of Western Political Theory Via Syllabi Construction And Library Classification</a></strong><br>
-        <i>Kayla Dold</i>
-  </tr>
+     
 
   <tr>
     <td colspan=6 style="font-size:20px"><strong><font>Day 4 - Friday, June 9</font></strong></td>
@@ -394,11 +389,10 @@ For the 52nd annual conference of the Canadian Association for Information Scien
     <th colspan=2>Event</th>
   </tr>
   <tr>
-    <td colspan=2>SRF</td>
+    <td colspan=2><a href="https://westernuniversity.zoom.us/j/91531028175">SRF</a></td>
     <td colspan=2>11:00am - 1:00pm</td>
-    <td colspan=2><strong><a href="https://www.cais2023.ca/talk/SRF/">Student Research Forum</a></strong><br>
-        <i>Open to all<br>
-      Moderator: Danica Facca</i>
+    <td colspan=2><strong><a href="https://www.cais2024.ca/talk/SRF/">Student Research Forum</a></strong><br>
+        <i>OAll are welcome to attend</i>
   </td>
   </tr>
     <tr>
@@ -406,10 +400,10 @@ For the 52nd annual conference of the Canadian Association for Information Scien
     <td colspan=4>1:00pm - 2:00pm</td>
   </tr>
   <tr>
-    <td colspan=2>AGM</td>
+    <td colspan=2><a href="https://westernuniversity.zoom.us/j/91531028175">AGM</a></td>
     <td colspan=2>2:00pm - 4:00pm</td>
-    <td colspan=2><strong><a href="https://www.cais2023.ca/talk/AGM/">CAIS Annual General Meeting</a></strong><br>
-        <i>All attendees are welcome to join this meeting</i>
+    <td colspan=2><strong><a href="https://www.cais2024.ca/talk/AGM/">CAIS Annual General Meeting</a></strong><br>
+        <i>All are welcome to attend</i>
     </td>
   </tr>
 </table>
