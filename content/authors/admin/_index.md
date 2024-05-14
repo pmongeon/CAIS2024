@@ -169,7 +169,7 @@ For the 52nd annual conference of the Canadian Association for Information Scien
   </tr>
   <tr>
   <td rowspan=5><a href="https://westernuniversity.zoom.us/j/91531028175">Leaps & Stumbles I</a></td>
-    <td>11:00am - 11:18am</td>
+    <td>11:00am - 11:10am</td>
     <td><strong><a href="https://www.cais2024.ca/talk/13.Fischer/">Tripping Over Open-mindedness in Information Literacy Entanglements: A Theoretical Shift</a></strong></br>
     <i>Meredith Fischer</i>
     </td>
@@ -180,22 +180,22 @@ For the 52nd annual conference of the Canadian Association for Information Scien
     </td>
   </tr>
   <tr>
-    <td>11:18am - 11:36am</td>
+    <td>11:10am - 11:40am</td>
     <td><strong><a href="https://www.cais2024.ca/talk/14.Shiri/">The Conceptual Leap: A Conceptual Exploration</a></strong></br>
     <i>Ali Shiri</i>
   </tr>
   <tr>
-    <td>11:36pm - 11:54am</td>
+    <td>11:40pm - 11:50am</td>
     <td><strong><a href="https://www.cais2024.ca/talk/15.Mullender/">The Third Mind Classification System</a></strong></br>
     <i>Alec Mullender</i>
   </tr>
   <tr>
-    <td>11:54am - 12:12pm</td>
+    <td>11:50am - 12:20pm</td>
     <td><strong><a href="https://www.cais2024.ca/talk/16.Agnieszkar/">Leap into the unknown: From the info-communicational approach to data temporalities</a></strong></br>
     <i>Tona Agnieszkar</i>
   </tr>
   <tr>
-    <td>12:12pm - 12:30pm</td>
+    <td>12:20pm - 12:30pm</td>
     <td><strong><a href="https://www.cais2024.ca/talk/17.Tella/">From Quantum Leaps to Stumbles: Unveiling the Journey of Academic Inquiry of Library and Information Science Researchers in Africa</a></strong></br>
     <i>Adeyinka Tella</i>
   </tr>
@@ -262,13 +262,13 @@ For the 52nd annual conference of the Canadian Association for Information Scien
         <i>Christine Smith, Rumi Graham and Eva Revitt</i>
   </td>
     <td rowspan=3><a href="https://ubc.zoom.us/j/65266436731?pwd=L1dJRGwrYjNueldyUkFwZXZvc2dpUT09">Archives</a></td>
-    <td>5:00pm - 5:30pm</td>
+    <td>5:30pm - 6:00pm</td>
     <td><strong><a href="https://www.cais2024.ca/talk/25.Day/">Connections and Collaborations: New Zealand's Queer Independent Archives and Communities and GLAMU Institutions</a></strong><br>
         <i>Alison Day</i>
   </td>
   </tr>
     <tr>  
-    <td>5:30pm - 6:00pm</td>
+    <td>6:00pm - 6:10pm</td>
     <td><strong><a href="https://www.cais2024.ca/talk/26.Santos/">Sensemaking Theory for Community-based Climate Action: Making Space for Difference</a></strong><br>
         <i>Rodrigo Dos Santos, Alexandra Gaspar, Yifan Liu, Benjamin Mertick, Lisa Nathan, Luanne Sinnamon, Amory Strader and Coco Chen</i>
   </td>
@@ -304,33 +304,33 @@ For the 52nd annual conference of the Canadian Association for Information Scien
   <tr>
   <td rowspan=4><a href="https://westernuniversity.zoom.us/j/91531028175">Panel Session V </a> </i></td>
   </td>
-    <td rowspan=4>11:00am - 12:20pm</td>
+    <td rowspan=4>11:00am - 12:30pm</td>
     <td rowspan=4><strong><a href="https://www.cais2024.ca/talk/Panel5/">Psychedelic Information Theory: A Systematic Exploration of Information During Altered Consciousness</a></strong><br>
         <i>Jenna Hartel, James L. Kent, Tim Gorichanaz and Keith Munro</i>
   </td>
     <td rowspan=4> <a href="https://ubc.zoom.us/j/65266436731?pwd=L1dJRGwrYjNueldyUkFwZXZvc2dpUT09">Scholarly Communication </a>
-    <td>11:00am - 11:22am</td>
+    <td>11:00am - 11:30am</td>
     <td><strong><a href="https://www.cais2024.ca/talk/30.Demers/">Exploration of text mining techniques for the creation of ontologies to assist the synthesis of scientific knowledge</a></strong><br>
         <i>Camille Demers and Dominic Forest</i>
   </td>
   </tr>
   
   <tr> 
-    <td>11:22am - 11:45am</td>
+    <td>11:30am - 11:40am</td>
     <td><strong><a href="https://www.cais2024.ca/talk/31.Zhu/">What We Miss When We Cite Exclusively in English: The Case of Chinese-Language Sources</a></strong><br>
         <i>Yating Zhu and Keren Dali</i>
   </td>
   </tr>
 
   <tr> 
-    <td>11:45am - 12:07pm</td>
+    <td>11:40am - 12:10pm</td>
     <td><strong><a href="https://www.cais2024.ca/talk/32.Ayeni/">Leaps and Stumbles in the Application of Translation Technologies to Scholarly Communication</a></strong><br>
         <i>Philips Ayeni, Emanuel Kulczycki and Lynne Bowker</i>
   </td>
   </tr>
   
   <tr> 
-    <td>12:07pm - 12:30pm</td>
+    <td>12:10pm - 12:20pm</td>
     <td><strong><a href="https://www.cais2024.ca/talk/33.Poitras/">Comparing disciplinary classification systems: Approaches and considerations</a></strong><br>
         <i>Constance Poitras and Anton Boudreau Ninkov</i>
   </td>
@@ -343,27 +343,27 @@ For the 52nd annual conference of the Canadian Association for Information Scien
   
   <tr>
     <td colspan=2 rowspan=4><a href="https://westernuniversity.zoom.us/j/91531028175">Education</i></td>
-    <td colspan=2>12:50pm - 1:15pm</td>
+    <td colspan=2>12:50pm - 1:20pm</td>
     <td colspan=2><strong><a href="https://www.cais2024.ca/talk/34.Hangauer/">Conceptualizing Insight for the Study of Doctoral Student Information Behaviour</a></strong><br>
         <i>Kelly Hangauer</i>
   </tr>
       
   <tr>
-    <td colspan=2>1:15pm - 1:40pm</td>
+    <td colspan=2>1:20pm - 1:30pm</td>
     <td colspan=2><strong><a href="https://www.cais2024.ca/talk/35.Abel/">Who Studies the Students? The Challenges of Doing Research on Canadian LIS Programs</a></strong><br>
         <i>Jennifer Abel and Alisa Rod</i>
   </tr>
 
       
   <tr>
-    <td colspan=2>1:40pm - 2:05pm</td>
+    <td colspan=2>1:30pm - 2:00pm</td>
     <td colspan=2><strong><a href="https://www.cais2024.ca/talk/36.Rathi/">“Non-Academic” Skills for Incoming Doctoral Students</a></strong><br>
         <i>Dinesh Rathi and Jennifer Branch-Mueller</i>
   </tr>
 
       
   <tr>
-    <td colspan=2>2:05pm - 2:30pm</td>
+    <td colspan=2>2:00pm - 2:30pm</td>
     <td colspan=2><strong><a href="https://www.cais2024.ca/talk/37.Yu/">Developing a Scale of Translanguaging for Information-based Academic Writing</a></strong><br>
         <i>Chengyuan Yu and Yanchao Yang</i>
   </tr>
@@ -375,19 +375,19 @@ For the 52nd annual conference of the Canadian Association for Information Scien
 
   <tr>
     <td colspan=2 rowspan=3><a href="https://westernuniversity.zoom.us/j/91531028175">Information Behaviour</i></td>
-    <td colspan=2>3:00pm - 3:25pm</td>
+    <td colspan=2>3:00pm - 3:30pm</td>
     <td colspan=2><strong><a href="https://www.cais2024.ca/talk/38.Dodd/">Negotiating Player Identity and Information in TTRPGs</a></strong><br>
         <i>Hanna Dodd and Paulette Rothbauer</i>
   </tr>
       
   <tr>
-    <td colspan=2>3:25pm - 3:50pm</td>
+    <td colspan=2>3:30pm - 4:00pm</td>
     <td colspan=2><strong><a href="https://www.cais2024.ca/talk/39.Suzuki/">Exploring the Intersection of Digital Placemaking and Information Science in Smart Cities</a></strong><br>
         <i>Takayuki Suzuki, Andrew Dillon and Kenneth R. Fleischmann</i>
   </tr>
       
   <tr>
-    <td colspan=2>3:50pm - 4:15pm</td>
+    <td colspan=2>4:00pm - 4:15pm</td>
     <td colspan=2><strong><a href="https://www.cais2024.ca/talk/39.Suzuki/">Customers' Intention to Adopt Online Purchasing in UK Retail Banking: Integrating Information Practices and Trust</a></strong><br>
         <i>Gertrude Ugwu, Gobinda Chowdhury and Michael Harker/i>
   </tr>
