@@ -41,7 +41,7 @@ For the 52nd annual conference of the Canadian Association for Information Scien
   <tr>
     <td colspan=2>Keynote</td></br>
     <td colspan=2>11:15am - 12:45pm</td>
-    <td colspan=2><strong><a href="https://www.cais2024.ca/talk/01.Keynote">TBD</a></strong></br>
+    <td colspan=2><strong><a href="https://www.cais2024.ca/talk/Keynote1">TBD</a></strong></br>
     <i>Grant Campbell</i></td>
   </tr>
   <tr>
@@ -69,10 +69,11 @@ For the 52nd annual conference of the Canadian Association for Information Scien
     <td rowspan=3><strong><a href="https://www.cais2024.ca/talk/Panel1/">Cultural Heritage Informatics, Old Idea or Emerging Domain?: Stumbling into a Shared Definition for Research and Teachings</a></strong><br>
         <i>Hannah Turner, Shirin G. Alamdari, Stacy Allison-Cassin, Isto Huvila and Diana Marsh</i>
   </td>
-
+  </tr>
+  
   <tr> 
     <td>1:45pm - 2:15pm</td>
-    <td><strong><a href="https://www.cais2023.ca/talk/02.Crossman/">Everyday Inclusion wiith Racialized Youth in Public Libraries</a></strong><br>
+    <td><strong><a href="https://www.cais2024.ca/talk/02.Crossman/">Everyday Inclusion wiith Racialized Youth in Public Libraries</a></strong><br>
         <i>Katie Crossman, Lindsay Banting and Carrie Kitchen</i>
   </td>
   </tr>
@@ -80,7 +81,7 @@ For the 52nd annual conference of the Canadian Association for Information Scien
   
   <tr> 
     <td>2:15pm - 2:45pm</td>
-    <td><strong><a href="https://www.cais2023.ca/talk/03.Barriage/">Drag Storytimes and Bibliographic Invisibility: A Comparative Analysis of Picture Book Subject Metadata</a></strong><br>
+    <td><strong><a href="https://www.cais2024.ca/talk/03.Barriage/">Drag Storytimes and Bibliographic Invisibility: A Comparative Analysis of Picture Book Subject Metadata</a></strong><br>
         <i>Sarah Barriage, Beth Strickland Bloch and Vanessa Kitzie</i>
   </td>
   </tr>
@@ -102,7 +103,7 @@ For the 52nd annual conference of the Canadian Association for Information Scien
 
   <tr> 
     <td colspan=2 > 3:45pm - 4:15pm</td>
-    <td colspan=2 > <strong><a href="https://www.cais2023.ca/talk/05.Baker/">Transformative Reflection on Perspective Consciousness: Providing a Leap Forward in Diversity, Equity, Inclusion, and Belonging in Practice</a></strong><br>
+    <td colspan=2 > <strong><a href="https://www.cais2024.ca/talk/05.Baker/">Transformative Reflection on Perspective Consciousness: Providing a Leap Forward in Diversity, Equity, Inclusion, and Belonging in Practice</a></strong><br>
         <i>Sheila F Baker and Vivienne McClendon</i>
   </td>
   </tr>
@@ -290,16 +291,116 @@ For the 52nd annual conference of the Canadian Association for Information Scien
   <tr>
     <td colspan=6 style="font-size:20px"><strong><font>Day 3 - Thursday, June 8</font></strong></td>
   </tr>
+  
+ <tr>
+    <th>Session</th>
+    <th>Time (EDT)</th>
+    <th><a href="https://westernuniversity.zoom.us/j/91531028175">Track 1</a><//th>
+    <th>Session</th>
+    <th>Time (EDT)</th>
+    <th><a href="https://ubc.zoom.us/j/65266436731?pwd=L1dJRGwrYjNueldyUkFwZXZvc2dpUT09">Track 2</a></th>
+  </tr>
+  
   <tr>
-    <th colspan=2>Session</th>
-    <th colspan=2>Time (EDT)</th>
-    <th colspan=2>Presentation</th>
+  <td rowspan=4><a href="https://westernuniversity.zoom.us/j/91531028175">Panel Session V </a> </i></td>
+  </td>
+    <td rowspan=4>11:00am - 12:20pm</td>
+    <td rowspan=4><strong><a href="https://www.cais2024.ca/talk/Panel5/">Psychedelic Information Theory: A Systematic Exploration of Information During Altered Consciousness</a></strong><br>
+        <i>Jenna Hartel, James L. Kent, Tim Gorichanaz and Keith Munro</i>
+  </td>
+    <td rowspan=4> <a href="https://ubc.zoom.us/j/65266436731?pwd=L1dJRGwrYjNueldyUkFwZXZvc2dpUT09">Scholarly Communication </a>
+    <td>11:00am - 11:22am</td>
+    <td><strong><a href="https://www.cais2024.ca/talk/30.Demers/">Exploration of text mining techniques for the creation of ontologies to assist the synthesis of scientific knowledge</a></strong><br>
+        <i>Camille Demers and Dominic Forest</i>
+  </td>
+  </tr>
+  
+  <tr> 
+    <td>11:22am - 11:45am</td>
+    <td><strong><a href="https://www.cais2024.ca/talk/31.Zhu/">What We Miss When We Cite Exclusively in English: The Case of Chinese-Language Sources</a></strong><br>
+        <i>Yating Zhu and Keren Dali</i>
+  </td>
+  </tr>
+
+  <tr> 
+    <td>11:45am - 12:07pm</td>
+    <td><strong><a href="https://www.cais2024.ca/talk/32.Ayeni/">Leaps and Stumbles in the Application of Translation Technologies to Scholarly Communication</a></strong><br>
+        <i>Philips Ayeni, Emanuel Kulczycki and Lynne Bowker</i>
+  </td>
+  </tr>
+  
+  <tr> 
+    <td>12:07pm - 12:30pm</td>
+    <td><strong><a href="https://www.cais2024.ca/talk/33.Poitras/">Comparing disciplinary classification systems: Approaches and considerations</a></strong><br>
+        <i>Constance Poitras and Anton Boudreau Ninkov</i>
+  </td>
+  </tr>
+  
+  <tr>
+    <td>Break</td>
+    <td colspan=5>12:30pm - 12:50pm</td>
+  </tr>
+  
+  <tr>
+    <td colspan=2 rowspan=4><a href="https://westernuniversity.zoom.us/j/91531028175">Education</i></td>
+    <td colspan=2>12:50pm - 1:15pm</td>
+    <td colspan=2><strong><a href="https://www.cais2024.ca/talk/34.Hangauer/">Conceptualizing Insight for the Study of Doctoral Student Information Behaviour</a></strong><br>
+        <i>Kelly Hangauer</i>
+  </tr>
+      
+  <tr>
+    <td colspan=2>1:15pm - 1:40pm</td>
+    <td colspan=2><strong><a href="https://www.cais2024.ca/talk/35.Abel/">Who Studies the Students? The Challenges of Doing Research on Canadian LIS Programs</a></strong><br>
+        <i>Jennifer Abel and Alisa Rod</i>
+  </tr>
+
+      
+  <tr>
+    <td colspan=2>1:40pm - 2:05pm</td>
+    <td colspan=2><strong><a href="https://www.cais2024.ca/talk/36.Rathi/">“Non-Academic” Skills for Incoming Doctoral Students</a></strong><br>
+        <i>Dinesh Rathi and Jennifer Branch-Mueller</i>
+  </tr>
+
+      
+  <tr>
+    <td colspan=2>2:05pm - 2:30pm</td>
+    <td colspan=2><strong><a href="https://www.cais2024.ca/talk/37.Yu/">Developing a Scale of Translanguaging for Information-based Academic Writing</a></strong><br>
+        <i>Chengyuan Yu and Yanchao Yang</i>
+  </tr>
+
+  <tr>
+    <td>Break</td>
+    <td colspan=5>2:30pm - 3:00pm</td>
+  </tr>
+
+  <tr>
+    <td colspan=2 rowspan=3><a href="https://westernuniversity.zoom.us/j/91531028175">Information Behaviour</i></td>
+    <td colspan=2>3:00pm - 3:25pm</td>
+    <td colspan=2><strong><a href="https://www.cais2024.ca/talk/38.Dodd/">Negotiating Player Identity and Information in TTRPGs</a></strong><br>
+        <i>Hanna Dodd and Paulette Rothbauer</i>
+  </tr>
+      
+  <tr>
+    <td colspan=2>3:25pm - 3:50pm</td>
+    <td colspan=2><strong><a href="https://www.cais2024.ca/talk/39.Suzuki/">Exploring the Intersection of Digital Placemaking and Information Science in Smart Cities</a></strong><br>
+        <i>Takayuki Suzuki, Andrew Dillon and Kenneth R. Fleischmann</i>
+  </tr>
+      
+  <tr>
+    <td colspan=2>3:50pm - 4:15pm</td>
+    <td colspan=2><strong><a href="https://www.cais2024.ca/talk/39.Suzuki/">Customers' Intention to Adopt Online Purchasing in UK Retail Banking: Integrating Information Practices and Trust</a></strong><br>
+        <i>Gertrude Ugwu, Gobinda Chowdhury and Michael Harker/i>
+  </tr>
+      
+  <tr>
+    <td>Break</td>
+    <td colspan=5>4:15pm - 5:00pm</td>
   </tr>
 
   <tr>
     <td colspan=2><a href="https://westernuniversity.zoom.us/j/91531028175">CLOSING KEYNOTE</i></td>
-    <td colspan=2>5:00am - 6:30pm</td>
-    <td colspan=2><strong><a href="https://www.cais2023.ca/talk/23.Rathi/">TBA</a></strong><br>
+    <td colspan=2>5:00pm - 6:30pm</td>
+    <td colspan=2><strong><a href="https://www.cais2024.ca/talk/keynote2/">TBA</a></strong><br>
         <i>Maggie Gordon</i>
   </tr>
      
