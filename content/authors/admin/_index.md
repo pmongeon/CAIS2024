@@ -67,7 +67,7 @@ For the 52nd annual conference of the Canadian Association for Information Scien
     <td rowspan=3> <a href="https://ubc.zoom.us/j/65266436731?pwd=L1dJRGwrYjNueldyUkFwZXZvc2dpUT09">Panel Session I </a></td>
     <td rowspan=3>1:15pm - 2:45pm</td>
     <td rowspan=3><strong><a href="https://www.cais2024.ca/talk/Panel1/">Cultural Heritage Informatics, Old Idea or Emerging Domain?: Stumbling into a Shared Definition for Research and Teachings</a></strong><br>
-        <i>Hannah Turner, Shirin G. Alamdari, Stacy Allison-Cassin, Isto Huvila and Diana Marsh</i>
+        <i>Hannah Turner, Shirin G. Alamdari, Stacy Allison-Cassin, Isto Huvila, Diana Marsh and Andrea Thomer</i>
   </td>
   </tr>
   
@@ -176,7 +176,7 @@ For the 52nd annual conference of the Canadian Association for Information Scien
     <td rowspan=5><a href="https://ubc.zoom.us/j/65266436731?pwd=L1dJRGwrYjNueldyUkFwZXZvc2dpUT09">Panel Session II</a></td>
     <td rowspan=5>11:00am - 12:30pm</td>
     <td rowspan=5><strong><a href="https://www.cais2024.ca/talk/Panel2/">"Stumbling" to Succeed: Challenges, Obstacles, and Ethical Dilemmas in Human Participant Research</a></strong></br>
-    <i>Hannah Turner, Shirin G. Alamdari, Stacy Allison-Cassin, Isto Huvila and Diana Marsh</i>
+    <i>Keren Dali, Tawfiq Ammari, Kaitlin Costello, Heather Hill and Charles Senteio</i>
     </td>
   </tr>
   <tr>
@@ -246,7 +246,7 @@ For the 52nd annual conference of the Canadian Association for Information Scien
     <td><strong><a href="https://www.cais2024.ca/talk/22.Martel/">Engagement of public and school libraries: Multiple case studies in community literacy</a></strong><br>
         <i>Marie D. Martel, Christine Dufour and Nathalie Lacelle</i>
   </td>
-    <td>4:00pm - 4:30pm</td>
+    <td>4:00pm - 4:10pm</td>
     <td><strong><a href="https://www.cais2024.ca/talk/23.Kampen/">JEALOUSY, JEALOUSY: Exploring discipline envy and method jealousy in developing research topics in Information Science</a></strong><br>
         <i>Andrea Kampen</i>
   </td>
@@ -389,7 +389,7 @@ For the 52nd annual conference of the Canadian Association for Information Scien
   <tr>
     <td colspan=2>4:00pm - 4:15pm</td>
     <td colspan=2><strong><a href="https://www.cais2024.ca/talk/39.Suzuki/">Customers' Intention to Adopt Online Purchasing in UK Retail Banking: Integrating Information Practices and Trust</a></strong><br>
-        <i>Gertrude Ugwu, Gobinda Chowdhury and Michael Harker/i>
+        <i>Gertrude Ugwu, Gobinda Chowdhury and Michael Harker</i>
   </tr>
       
   <tr>
@@ -400,8 +400,8 @@ For the 52nd annual conference of the Canadian Association for Information Scien
   <tr>
     <td colspan=2><a href="https://westernuniversity.zoom.us/j/91531028175">CLOSING KEYNOTE</i></td>
     <td colspan=2>5:00pm - 6:30pm</td>
-    <td colspan=2><strong><a href="https://www.cais2024.ca/talk/keynote2/">TBA</a></strong><br>
-        <i>Maggie Gordon</i>
+    <td colspan=2><strong><a href="https://www.cais2024.ca/talk/keynote2/">Platform Scopophilia: Data, Surveillance, and Pornhub Insights </a></strong><br>
+        <i>Maggie MacDonald </i>
   </tr>
      
 
@@ -417,7 +417,7 @@ For the 52nd annual conference of the Canadian Association for Information Scien
     <td colspan=2><a href="https://westernuniversity.zoom.us/j/91531028175">SRF</a></td>
     <td colspan=2>11:00am - 1:00pm</td>
     <td colspan=2><strong><a href="https://www.cais2024.ca/talk/SRF/">Student Research Forum</a></strong><br>
-        <i>OAll are welcome to attend</i>
+        <i>By application or invitation only</i>
   </td>
   </tr>
     <tr>
