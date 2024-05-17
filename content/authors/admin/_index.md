@@ -116,7 +116,7 @@ For the 52nd annual conference of the Canadian Association for Information Scien
   
   <tr>
   <td rowspan=4><a href="https://westernuniversity.zoom.us/j/91531028175">OpenAlex & Classification</a></td>
-    <td>5:00pm - 5:30pm</td>
+    <td>5:00pm - 5:10pm</td>
     <td><strong><a href="https://www.cais2024.ca/talk/06.Rose/">Mapping Environmental Science: An OpenAlex Review</a></strong><br>
         <i>Margaret Rose, Jasmin Macarios and Sheila Woodgold</i>
   </td>
@@ -127,7 +127,7 @@ For the 52nd annual conference of the Canadian Association for Information Scien
   </td>
   </tr>
     <tr>  
-    <td>5:30pm - 6:00pm</td>
+    <td>5:10pm - 5:20pm</td>
     <td><strong><a href="https://www.cais2024.ca/talk/08.Stankovic/">An Evaluation of OpenAlex Level 0 - Art</a></strong><br>
         <i>Senka Stankovic, Isabella Sun and Kayla Wemp</i>
   </td>
@@ -137,7 +137,7 @@ For the 52nd annual conference of the Canadian Association for Information Scien
   </td> 
   </tr>  
      <tr>  
-    <td>6:00pm - 6:30pm</td>
+    <td>5:20pm - 5:50pm</td>
     <td><strong><a href="https://www.cais2024.ca/talk/10.Zafar/">Exploring a Machine-Generated Concept Hierarchy Through the LEns of 'Naive' Classification</a></strong><br>
         <i>Huma Zafar</i>
   </td>
@@ -147,7 +147,7 @@ For the 52nd annual conference of the Canadian Association for Information Scien
   </td>
   </tr>   
   <tr>  
-    <td>6:30pm - 7:00pm</td>
+    <td>5:50pm - 7:00pm</td>
     <td>  
   </td>
     <td>6:30pm - 7:00pm</td>
