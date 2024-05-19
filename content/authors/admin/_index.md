@@ -147,7 +147,7 @@ For the 52nd annual conference of the Canadian Association for Information Scien
   </td>
   </tr>   
   <tr>  
-    <td>5:50pm - 7:00pm</td>
+    <td>5:50pm - 6:00pm</td>
     <td>  
   </td>
     <td>5:30pm - 6:00pm</td>
