@@ -121,7 +121,7 @@ For the 52nd annual conference of the Canadian Association for Information Scien
         <i>Margaret Rose, Jasmin Macarios and Sheila Woodgold</i>
   </td>
     <td rowspan=4><a href="https://ubc.zoom.us/j/65266436731?pwd=L1dJRGwrYjNueldyUkFwZXZvc2dpUT09">Health & Information</a></td>
-    <td>5:00pm - 5:30pm</td>
+    <td>5:00pm - 5:10pm</td>
     <td><strong><a href="https://www.cais2024.ca/talk/07.Schloss/">Shaping the Future of Therapy: A Call for the Involvement of Information Scholars in Designing Digital Tools for Mental Health</a></strong><br>
         <i>Isabella Schloss and Andrew Dillon</i>
   </td>
@@ -131,7 +131,7 @@ For the 52nd annual conference of the Canadian Association for Information Scien
     <td><strong><a href="https://www.cais2024.ca/talk/08.Stankovic/">An Evaluation of OpenAlex Level 0 - Art</a></strong><br>
         <i>Senka Stankovic, Isabella Sun and Kayla Wemp</i>
   </td>
-    <td>5:30pm - 6:00pm</td>
+    <td>5:10pm - 5:20pm</td>
     <td><strong><a href="https://www.cais2024.ca/talk/09.Lueg/">Exploring a Gap in Informed & Self-Aware Aging: A Perspective from Embodied Information Science</a></strong><br>
         <i>Christopher Lueg and Siyao Cheng</i>
   </td> 
@@ -141,7 +141,7 @@ For the 52nd annual conference of the Canadian Association for Information Scien
     <td><strong><a href="https://www.cais2024.ca/talk/10.Zafar/">Exploring a Machine-Generated Concept Hierarchy Through the LEns of 'Naive' Classification</a></strong><br>
         <i>Huma Zafar</i>
   </td>
-    <td>6:00pm - 6:30pm</td>
+    <td>5:20pm - 5:30pm</td>
     <td><strong><a href="https://www.cais2024.ca/talk/11.Dalmer/">The importance of revisiting: Retracing family caregivers’ everyday information work</a></strong><br>
         <i>Nicole Dalmer</i>
   </td>
@@ -150,7 +150,7 @@ For the 52nd annual conference of the Canadian Association for Information Scien
     <td>5:50pm - 7:00pm</td>
     <td>  
   </td>
-    <td>6:30pm - 7:00pm</td>
+    <td>5:30pm - 6:00pm</td>
     <td><strong><a href="https://www.cais2024.ca/talk/12.Granikov/">Learning Together to Think Critically About Health Information: A Participatory Case Study in Progress</a></strong><br>
         <i>Vera Granikov and Liz Perrin</i>
   </td> 
@@ -206,13 +206,13 @@ For the 52nd annual conference of the Canadian Association for Information Scien
   <tr>
   <td><a href="https://westernuniversity.zoom.us/j/91531028175">Panel Session III</a></td>
     <td>1:00pm - 2:30pm</td>
-    <td><strong><a href="https://www.cais2024.ca/talk/Panel3/">Writing Practice in Library and Information Science: Critical, Ethnographic, and Institutional Visions</a></strong><br>
+    <td><strong><a href="https://www.cais2024.ca/talk/Panel3/">Writing Practice in LIS: Strategies and Visions</a></strong><br>
         <i>Hugh Samson, Jenna Hartel, Bharat Mehra and Mary Broussard</i>
   </td>
   <td><a href="https://ubc.zoom.us/j/65266436731?pwd=L1dJRGwrYjNueldyUkFwZXZvc2dpUT09">Panel Session IV</a></td>
     <td>1:00pm - 2:30pm</td>
     <td><strong><a href="https://www.cais2024.ca/talk/Panel4/">Tracing Paths Through University-Community Knowledge Exchange Work in the Information Fields</a></strong><br>
-        <i>Luanne Sinnamon, Julia Bullard, Kristina McDavid, Melissa Nelson, Heather O'Brien and Samantha Snodgrass</i>
+        <i>Luanne Sinnamon, Julia Bullard, Kristina McDavid, Melissa Nelson, Heather O'Brien, Samantha Snodgrass, and David M. Levy</i>
   </td>
   </tr>
     <tr>
