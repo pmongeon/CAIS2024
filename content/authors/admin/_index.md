@@ -262,13 +262,13 @@ For the 52nd annual conference of the Canadian Association for Information Scien
         <i>Christine Smith, Rumi Graham and Eva Revitt</i>
   </td>
     <td rowspan=3><a href="https://ubc.zoom.us/j/65266436731?pwd=L1dJRGwrYjNueldyUkFwZXZvc2dpUT09">Archives</a></td>
-    <td>5:30pm - 6:00pm</td>
+    <td>5:00pm - 5:30pm</td>
     <td><strong><a href="https://www.cais2024.ca/talk/25.Day/">Connections and Collaborations: New Zealand's Queer Independent Archives and Communities and GLAMU Institutions</a></strong><br>
         <i>Alison Day</i>
   </td>
   </tr>
     <tr>  
-    <td>6:00pm - 6:10pm</td>
+    <td>5:30pm - 6:00pm</td>
     <td><strong><a href="https://www.cais2024.ca/talk/26.Santos/">Sensemaking Theory for Community-based Climate Action: Making Space for Difference</a></strong><br>
         <i>Rodrigo Dos Santos, Alexandra Gaspar, Yifan Liu, Benjamin Mertick, Lisa Nathan, Luanne Sinnamon, Amory Strader and Coco Chen</i>
   </td>
@@ -278,7 +278,7 @@ For the 52nd annual conference of the Canadian Association for Information Scien
   </td> 
   </tr>  
      <tr>  
-    <td>6:00pm - 6:30pm</td>
+    <td>6:00pm - 6:10pm</td>
     <td><strong><a href="https://www.cais2024.ca/talk/28.Kelly/">How Dark Patterns Undermine Users' Social Privacy Online</a></strong><br>
         <i>Dominique Kelly and Jacquelyn Burkell</i>
   </td>
