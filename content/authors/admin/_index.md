@@ -388,7 +388,7 @@ For the 52nd annual conference of the Canadian Association for Information Scien
       
   <tr>
     <td colspan=2>4:00pm - 4:15pm</td>
-    <td colspan=2><strong><a href="https://www.cais2024.ca/talk/39.Suzuki/">Customers' Intention to Adopt Online Purchasing in UK Retail Banking: Integrating Information Practices and Trust</a></strong><br>
+    <td colspan=2><strong><a href="https://www.cais2024.ca/talk/40.Ugwu/">Customers' Intention to Adopt Online Purchasing in UK Retail Banking: Integrating Information Practices and Trust</a></strong><br>
         <i>Gertrude Ugwu, Gobinda Chowdhury and Michael Harker</i>
   </tr>
       
