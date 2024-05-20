@@ -289,7 +289,7 @@ For the 52nd annual conference of the Canadian Association for Information Scien
   </tr> 
   
   <tr>
-    <td colspan=6 style="font-size:20px"><strong><font>Day 3 - Thursday, June 8</font></strong></td>
+    <td colspan=6 style="font-size:20px"><strong><font>Day 3 - Thursday, June 6</font></strong></td>
   </tr>
   
  <tr>
@@ -406,7 +406,7 @@ For the 52nd annual conference of the Canadian Association for Information Scien
      
 
   <tr>
-    <td colspan=6 style="font-size:20px"><strong><font>Day 4 - Friday, June 9</font></strong></td>
+    <td colspan=6 style="font-size:20px"><strong><font>Day 4 - Friday, June 7</font></strong></td>
   </tr>
   <tr>
     <th colspan=2>Session</th>
