@@ -1,5 +1,5 @@
 ---
-title: "Why a Future-Oriented Information Science Discipline Should Embrace an "Animal Turn""
+title: "Why a Future-Oriented Information Science Discipline Should Embrace an 'Animal Turn'"
 event: CAIS2024
 event_url: 
 
