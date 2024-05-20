@@ -1,5 +1,5 @@
 ---
-title: "‘Decolonization and Reconciliation in Academic Libraries in Canada: A Review of Strategic Priorities"
+title: "Decolonization and Reconciliation in Academic Libraries in Canada: A Review of Strategic Priorities"
 event: CAIS2024
 event_url: 
 
