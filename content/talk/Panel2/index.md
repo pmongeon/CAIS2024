@@ -1,5 +1,5 @@
 ---
-title: ""Stumbling" to Succeed: Challenges, Obstacles, and Ethical Dilemmas in Human Participant Research"
+title: "'Stumbling' to Succeed: Challenges, Obstacles, and Ethical Dilemmas in Human Participant Research"
 event: CAIS2024
 event_url: 
 
