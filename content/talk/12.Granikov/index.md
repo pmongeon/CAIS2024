@@ -1,5 +1,5 @@
 ---
-title: "“Learning Together to Think Critically About Health Information: A Participatory Case Study in Progress"
+title: "Learning Together to Think Critically About Health Information: A Participatory Case Study in Progress"
 event: CAIS2024
 event_url: 
 
