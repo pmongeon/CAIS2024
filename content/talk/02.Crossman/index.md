@@ -16,7 +16,7 @@ publishDate: "2023-01-01T00:00:00Z"
 
 authors:
  - Katie Crossman
- -Lindsay Banting
+ - Lindsay Banting
  - Carrie Kitchen
 
 featured: false
