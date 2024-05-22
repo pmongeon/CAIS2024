@@ -41,7 +41,7 @@ For the 52nd annual conference of the Canadian Association for Information Scien
   <tr>
     <td colspan=2>Keynote</td></br>
     <td colspan=2>11:15am - 12:45pm</td>
-    <td colspan=2><strong><a href="https://www.cais2024.ca/talk/Keynote1">TBD</a></strong></br>
+    <td colspan=2><strong><a href="https://www.cais2024.ca/talk/Keynote1">Twenty-Five Years on the Metadata Beat</a></strong></br>
     <i>Grant Campbell</i></td>
   </tr>
   <tr>
