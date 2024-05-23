@@ -207,12 +207,12 @@ For the 52nd annual conference of the Canadian Association for Information Scien
   <td><a href="https://westernuniversity.zoom.us/j/91531028175">Panel Session III</a></td>
     <td>1:00pm - 2:30pm</td>
     <td><strong><a href="https://www.cais2024.ca/talk/Panel3/">Writing Practice in LIS: Strategies and Visions</a></strong><br>
-        <i>Hugh Samson, Jenna Hartel, Bharat Mehra and Mary Broussard</i>
+        <i>Hugh Samson, Jenna Hartel, Bharat Mehra, Mary Broussard and David M. Lev</i>
   </td>
   <td><a href="https://ubc.zoom.us/j/65266436731?pwd=L1dJRGwrYjNueldyUkFwZXZvc2dpUT09">Panel Session IV</a></td>
     <td>1:00pm - 2:30pm</td>
     <td><strong><a href="https://www.cais2024.ca/talk/Panel4/">Tracing Paths Through University-Community Knowledge Exchange Work in the Information Fields</a></strong><br>
-        <i>Luanne Sinnamon, Julia Bullard, Kristina McDavid, Melissa Nelson, Heather O'Brien, Samantha Snodgrass, and David M. Levy</i>
+        <i>Luanne Sinnamon, Julia Bullard, Kristina McDavid, Melissa Nelson, Heather O'Brien, and Samantha Snodgrassy</i>
   </td>
   </tr>
     <tr>
