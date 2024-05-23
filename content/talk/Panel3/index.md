@@ -19,7 +19,7 @@ authors:
  - Jenna Hartel
  - Bharat Mehra
  - Mary Broussard
-   -David M. Levy
+ - David M. Levy
 
 featured: false
 
