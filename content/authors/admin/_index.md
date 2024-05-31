@@ -270,7 +270,8 @@ For the 52nd annual conference of the Canadian Association for Information Scien
     <td><strong><a href="https://www.cais2024.ca/talk/24.Smith/">Leaps in Media Access & Reuse : Copyright Codes of Best Practice</a></strong>&#x2b50;<br>
         <i>Christine Smith, Rumi Graham and Eva Revitt</i>
   </td>
-    <td rowspan=3><a href="https://ubc.zoom.us/j/65266436731?pwd=L1dJRGwrYjNueldyUkFwZXZvc2dpUT09">Archives</a></td>
+    <td rowspan=3><a href="https://ubc.zoom.us/j/65266436731?pwd=L1dJRGwrYjNueldyUkFwZXZvc2dpUT09">Archives</a><br>
+        <i>Moderator: Hannah Turner</i></td>
     <td>5:00pm - 5:30pm</td>
     <td><strong><a href="https://www.cais2024.ca/talk/25.Day/">Connections and Collaborations: New Zealand's Queer Independent Archives and Communities and GLAMU Institutions</a></strong><br>
         <i>Alison Day</i>
@@ -311,7 +312,8 @@ For the 52nd annual conference of the Canadian Association for Information Scien
   </tr>
   
   <tr>
-  <td rowspan=4><a href="https://westernuniversity.zoom.us/j/91531028175">Panel Session V </a> </i></td>
+  <td rowspan=4><a href="https://westernuniversity.zoom.us/j/91531028175">Panel Session V </a><br>
+        <i>Moderator: Azhagu Meena</i></td>
   </td>
     <td rowspan=4>11:00am - 12:30pm</td>
     <td rowspan=4><strong><a href="https://www.cais2024.ca/talk/Panel5/">Psychedelic Information Theory: A Systematic Exploration of Information During Altered Consciousness</a></strong><br>
@@ -351,7 +353,8 @@ For the 52nd annual conference of the Canadian Association for Information Scien
   </tr>
   
   <tr>
-    <td colspan=2 rowspan=4><a href="https://westernuniversity.zoom.us/j/91531028175">Education</i></td>
+    <td colspan=2 rowspan=4><a href="https://westernuniversity.zoom.us/j/91531028175">Education</a><br>
+        <i>Moderator: Katie Crossman</i></td>
     <td colspan=2>12:50pm - 1:20pm</td>
     <td colspan=2><strong><a href="https://www.cais2024.ca/talk/34.Hangauer/">Conceptualizing insight for the study of doctoral student information use</a></strong><br>
         <i>Kelly Hangauer</i>
