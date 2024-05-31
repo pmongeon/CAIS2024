@@ -344,7 +344,7 @@ For the 52nd annual conference of the Canadian Association for Information Scien
   <tr>
     <td colspan=2 rowspan=4><a href="https://westernuniversity.zoom.us/j/91531028175">Education</i></td>
     <td colspan=2>12:50pm - 1:20pm</td>
-    <td colspan=2><strong><a href="https://www.cais2024.ca/talk/34.Hangauer/">Conceptualizing Insight for the Study of Doctoral Student Information Behaviour</a></strong><br>
+    <td colspan=2><strong><a href="https://www.cais2024.ca/talk/34.Hangauer/">Conceptualizing insight for the study of doctoral student information use</a></strong><br>
         <i>Kelly Hangauer</i>
   </tr>
       
