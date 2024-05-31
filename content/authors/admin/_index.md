@@ -59,12 +59,14 @@ For the 52nd annual conference of the Canadian Association for Information Scien
   </tr>
   
   <tr>
-  <td rowspan=3><a href="https://westernuniversity.zoom.us/j/91531028175">Advances in Diverstiy, Equity, and Inclusion I </a> </i></td>
+  <td rowspan=3><a href="https://westernuniversity.zoom.us/j/91531028175">Advances in Diverstiy, Equity, and Inclusion I </a><br>
+        <i>Moderator: Sarah Polkinghorne</i></td>
     <td>1:15pm - 1:45pm</td>
     <td><strong><a href="https://www.cais2024.ca/talk/01.Mehra/">Civic Engagement and Collective Impact For Social Change: Public Libraries Promoting Racial Justice in the American Southt</a></strong><br>
         <i>Bharat Mehra, Kimberly Black, Baheya Jaber and Kaurri Williams-Cockfield</i>
   </td>
-    <td rowspan=3> <a href="https://ubc.zoom.us/j/65266436731?pwd=L1dJRGwrYjNueldyUkFwZXZvc2dpUT09">Panel Session I </a></td>
+    <td rowspan=3> <a href="https://ubc.zoom.us/j/65266436731?pwd=L1dJRGwrYjNueldyUkFwZXZvc2dpUT09">Panel Session I </a><br>
+        <i>Moderator: Shirin G.Alamdari</i></td>
     <td rowspan=3>1:15pm - 2:45pm</td>
     <td rowspan=3><strong><a href="https://www.cais2024.ca/talk/Panel1/">Cultural Heritage Informatics, Old Idea or Emerging Domain?: Stumbling into a Shared Definition for Research and Teachings</a></strong><br>
         <i>Hannah Turner, Shirin G. Alamdari, Stacy Allison-Cassin, Isto Huvila, Diana Marsh and Andrea Thomer</i>
@@ -115,12 +117,14 @@ For the 52nd annual conference of the Canadian Association for Information Scien
   </tr>
   
   <tr>
-  <td rowspan=4><a href="https://westernuniversity.zoom.us/j/91531028175">OpenAlex & Classification</a></td>
+  <td rowspan=4><a href="https://westernuniversity.zoom.us/j/91531028175">OpenAlex & Classification</a><br>
+        <i>Moderator: Julia Bullard</i></td>
     <td>5:00pm - 5:10pm</td>
     <td><strong><a href="https://www.cais2024.ca/talk/06.Rose/">Mapping Environmental Science: An OpenAlex Review</a></strong><br>
         <i>Margaret Rose, Jasmin Macarios and Sheila Woodgold</i>
   </td>
-    <td rowspan=4><a href="https://ubc.zoom.us/j/65266436731?pwd=L1dJRGwrYjNueldyUkFwZXZvc2dpUT09">Health & Information</a></td>
+    <td rowspan=4><a href="https://ubc.zoom.us/j/65266436731?pwd=L1dJRGwrYjNueldyUkFwZXZvc2dpUT09">Health & Information</a><br>
+        <i>Moderator: Tami Oliphant</i></td>
     <td>5:00pm - 5:10pm</td>
     <td><strong><a href="https://www.cais2024.ca/talk/07.Schloss/">Shaping the Future of Therapy: A Call for the Involvement of Information Scholars in Designing Digital Tools for Mental Health</a></strong><br>
         <i>Isabella Schloss and Andrew Dillon</i>
@@ -168,12 +172,14 @@ For the 52nd annual conference of the Canadian Association for Information Scien
     <th><a href="https://ubc.zoom.us/j/65266436731?pwd=L1dJRGwrYjNueldyUkFwZXZvc2dpUT09">Track 2</a></th>
   </tr>
   <tr>
-  <td rowspan=5><a href="https://westernuniversity.zoom.us/j/91531028175">Leaps & Stumbles I</a></td>
+  <td rowspan=5><a href="https://westernuniversity.zoom.us/j/91531028175">Leaps & Stumbles I</a><br>
+        <i>Moderator: Jenna Hartel </i></td>
     <td>11:00am - 11:10am</td>
     <td><strong><a href="https://www.cais2024.ca/talk/13.Fischer/">Tripping Over Open-mindedness in Information Literacy Entanglements: A Theoretical Shift</a></strong></br>
     <i>Meredith Fischer</i>
     </td>
-    <td rowspan=5><a href="https://ubc.zoom.us/j/65266436731?pwd=L1dJRGwrYjNueldyUkFwZXZvc2dpUT09">Panel Session II</a></td>
+    <td rowspan=5><a href="https://ubc.zoom.us/j/65266436731?pwd=L1dJRGwrYjNueldyUkFwZXZvc2dpUT09">Panel Session II</a><br>
+        <i>Moderator: Sarah Polkinghorne </i></td>
     <td rowspan=5>11:00am - 12:30pm</td>
     <td rowspan=5><strong><a href="https://www.cais2024.ca/talk/Panel2/">"Stumbling" to Succeed: Challenges, Obstacles, and Ethical Dilemmas in Human Participant Research</a></strong></br>
     <i>Keren Dali, Tawfiq Ammari, Kaitlin Costello, Heather Hill and Charles Senteio</i>
@@ -204,12 +210,14 @@ For the 52nd annual conference of the Canadian Association for Information Scien
     <td colspan=5>12:30pm - 1:00pm</td>
   </tr>
   <tr>
-  <td><a href="https://westernuniversity.zoom.us/j/91531028175">Panel Session III</a></td>
+  <td><a href="https://westernuniversity.zoom.us/j/91531028175">Panel Session III</a><br>
+        <i>Moderator: Meredith Fischer </i></td>
     <td>1:00pm - 2:30pm</td>
     <td><strong><a href="https://www.cais2024.ca/talk/Panel3/">Writing Practice in LIS: Strategies and Visions</a></strong><br>
         <i>Hugh Samson, Jenna Hartel, Bharat Mehra, Mary Broussard and David M. Lev</i>
   </td>
-  <td><a href="https://ubc.zoom.us/j/65266436731?pwd=L1dJRGwrYjNueldyUkFwZXZvc2dpUT09">Panel Session IV</a></td>
+  <td><a href="https://ubc.zoom.us/j/65266436731?pwd=L1dJRGwrYjNueldyUkFwZXZvc2dpUT09">Panel Session IV</a><br>
+        <i>Moderator: Vera Granikov </i></td>
     <td>1:00pm - 2:30pm</td>
     <td><strong><a href="https://www.cais2024.ca/talk/Panel4/">Tracing Paths Through University-Community Knowledge Exchange Work in the Information Fields</a></strong><br>
         <i>Luanne Sinnamon, Julia Bullard, Kristina McDavid, Melissa Nelson, Heather O'Brien, and Samantha Snodgrassy</i>
@@ -225,7 +233,8 @@ For the 52nd annual conference of the Canadian Association for Information Scien
     <td><strong><a href="https://www.cais2024.ca/talk/18.Bourgard/">Sustained Wikipedia Editorship and the Library Profession: Analyzing the Editing Patterns of 1Lib1Ref Participants</a></strong><br>
         <i>Erin Bourgard</i>
   </td>
-    <td rowspan=3><a href="https://ubc.zoom.us/j/65266436731?pwd=L1dJRGwrYjNueldyUkFwZXZvc2dpUT09">Leaps & Stumbles II</a></td>
+    <td rowspan=3><a href="https://ubc.zoom.us/j/65266436731?pwd=L1dJRGwrYjNueldyUkFwZXZvc2dpUT09">Leaps & Stumbles II</a><br>
+        <i>Moderator: Jenna Hartel</i></td>
     <td>3:00pm - 3:30pm</td>
     <td><strong><a href="https://www.cais2024.ca/talk/19.Olsson/">Quantum Leap: Practice Architectures as a Conceptual Tool in Information Practices Research</a></strong><br>
         <i>Michael Olsson</i>
