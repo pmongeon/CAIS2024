@@ -151,7 +151,7 @@ For the 52nd annual conference of the Canadian Association for Information Scien
     <td>  
   </td>
     <td>5:30pm - 6:00pm</td>
-    <td><strong><a href="https://www.cais2024.ca/talk/12.Granikov/">Learning Together to Think Critically About Health Information: A Participatory Case Study in Progress</a></strong><br>
+    <td><strong><a href="https://www.cais2024.ca/talk/12.Granikov/">Learning Together to Think Critically About Health Information: A Participatory Case Study in Progress</a></strong>&#x2b50;<br>
         <i>Vera Granikov and Liz Perrin</i>
   </td> 
   </tr> 
@@ -243,7 +243,7 @@ For the 52nd annual conference of the Canadian Association for Information Scien
   </tr>  
      <tr>  
     <td>4:00pm - 4:30pm</td>
-    <td><strong><a href="https://www.cais2024.ca/talk/22.Martel/">Engagement of public and school libraries: Multiple case studies in community literacy</a></strong><br>
+    <td><strong><a href="https://www.cais2024.ca/talk/22.Martel/">Engagement of public and school libraries: Multiple case studies in community literacy</a></strong>&#x2b50;<br>
         <i>Marie D. Martel, Christine Dufour and Nathalie Lacelle</i>
   </td>
     <td>4:00pm - 4:10pm</td>
@@ -258,7 +258,7 @@ For the 52nd annual conference of the Canadian Association for Information Scien
   <tr>
   <td rowspan=3><a href="https://westernuniversity.zoom.us/j/91531028175">Information & Policy</a></td>
     <td>5:00pm - 5:30pm</td>
-    <td><strong><a href="https://www.cais2024.ca/talk/24.Smith/">Leaps in Media Access & Reuse : Copyright Codes of Best Practice</a></strong><br>
+    <td><strong><a href="https://www.cais2024.ca/talk/24.Smith/">Leaps in Media Access & Reuse : Copyright Codes of Best Practice</a></strong>&#x2b50;<br>
         <i>Christine Smith, Rumi Graham and Eva Revitt</i>
   </td>
     <td rowspan=3><a href="https://ubc.zoom.us/j/65266436731?pwd=L1dJRGwrYjNueldyUkFwZXZvc2dpUT09">Archives</a></td>
@@ -324,7 +324,7 @@ For the 52nd annual conference of the Canadian Association for Information Scien
 
   <tr> 
     <td>11:40am - 12:10pm</td>
-    <td><strong><a href="https://www.cais2024.ca/talk/32.Ayeni/">Leaps and Stumbles in the Application of Translation Technologies to Scholarly Communication</a></strong><br>
+    <td><strong><a href="https://www.cais2024.ca/talk/32.Ayeni/">Leaps and Stumbles in the Application of Translation Technologies to Scholarly Communication</a></strong>&#x2b50;<br>
         <i>Philips Ayeni, Emanuel Kulczycki and Lynne Bowker</i>
   </td>
   </tr>
@@ -382,7 +382,7 @@ For the 52nd annual conference of the Canadian Association for Information Scien
       
   <tr>
     <td colspan=2>3:30pm - 4:00pm</td>
-    <td colspan=2><strong><a href="https://www.cais2024.ca/talk/39.Suzuki/">Exploring the Intersection of Digital Placemaking and Information Science in Smart Cities</a></strong><br>
+    <td colspan=2><strong><a href="https://www.cais2024.ca/talk/39.Suzuki/">Exploring the Intersection of Digital Placemaking and Information Science in Smart Cities</a></strong>&#x2b50;<br>
         <i>Takayuki Suzuki, Andrew Dillon and Kenneth R. Fleischmann</i>
   </tr>
       
