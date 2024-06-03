@@ -312,24 +312,17 @@ For the 52nd annual conference of the Canadian Association for Information Scien
   </tr>
   
   <tr>
-  <td rowspan=4><a href="https://westernuniversity.zoom.us/j/91531028175">Panel Session V </a><br>
+  <td rowspan=3><a href="https://westernuniversity.zoom.us/j/91531028175">Panel Session V </a><br>
         <i>Moderator: Azhagu Meena</i></td>
   </td>
-    <td rowspan=4>11:00am - 12:30pm</td>
-    <td rowspan=4><strong><a href="https://www.cais2024.ca/talk/Panel5/">Psychedelic Information Theory: A Systematic Exploration of Information During Altered Consciousness</a></strong><br>
+    <td rowspan=3>11:00am - 12:30pm</td>
+    <td rowspan=3><strong><a href="https://www.cais2024.ca/talk/Panel5/">Psychedelic Information Theory: A Systematic Exploration of Information During Altered Consciousness</a></strong><br>
         <i>Jenna Hartel, James L. Kent, Tim Gorichanaz and Keith Munro</i>
   </td>
     <td rowspan=4> <a href="https://ubc.zoom.us/j/65266436731?pwd=L1dJRGwrYjNueldyUkFwZXZvc2dpUT09">Scholarly Communication </a>
     <td>11:00am - 11:30am</td>
     <td><strong><a href="https://www.cais2024.ca/talk/30.Demers/">Exploration of text mining techniques for the creation of ontologies to assist the synthesis of scientific knowledge</a></strong><br>
         <i>Camille Demers and Dominic Forest</i>
-  </td>
-  </tr>
-  
-  <tr> 
-    <td>11:30am - 11:40am</td>
-    <td><strong><a href="https://www.cais2024.ca/talk/31.Zhu/">What We Miss When We Cite Exclusively in English: The Case of Chinese-Language Sources</a></strong><br>
-        <i>Yating Zhu and Keren Dali</i>
   </td>
   </tr>
 
