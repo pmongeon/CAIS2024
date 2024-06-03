@@ -46,7 +46,7 @@ For the 52nd annual conference of the Canadian Association for Information Scien
   </tr>
   <tr>
     <td colspan=2>Break</td>
-    <td colspan=4>2:45pm - 1:15pm</td>
+    <td colspan=4>12:45pm - 1:15pm</td>
   </tr>
   
   <tr>
