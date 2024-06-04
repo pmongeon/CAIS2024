@@ -155,7 +155,7 @@ For the 52nd annual conference of the Canadian Association for Information Scien
     <td>  
   </td>
     <td>5:30pm - 6:00pm</td>
-    <td><strong><a href="https://www.cais2024.ca/talk/12.Granikov/">Learning Together to Think Critically About Health Information: A Participatory Case Study in Progress</a></strong>&#x2b50;<br>
+    <td><strong><a href="https://www.cais2024.ca/talk/12.Granikov/">Learning Together to Think Critically About Health Information: A Participatory Case Study in Progress</a></strong><br>
         <i>Vera Granikov and Liz Perrin</i>
   </td> 
   </tr> 
@@ -283,7 +283,7 @@ For the 52nd annual conference of the Canadian Association for Information Scien
         <i>Rodrigo Dos Santos, Alexandra Gaspar, Yifan Liu, Benjamin Mertick, Lisa Nathan, Luanne Sinnamon, Amory Strader and Coco Chen</i>
   </td>
     <td>5:30pm - 6:00pm</td>
-    <td><strong><a href="https://www.cais2024.ca/talk/27.Allard/">Feminisms in the archives: A systematic literature review of feminist approaches in archival studies literature, 1973-2023</a></strong><br>
+    <td><strong><a href="https://www.cais2024.ca/talk/27.Allard/">Feminisms in the archives: A systematic literature review of feminist approaches in archival studies literature, 1973-2023</a></strong>&#x2b50;<br>
         <i>Danielle Allard, Tami Oliphant and Thane Chambers</i>
   </td> 
   </tr>  
