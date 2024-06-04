@@ -23,6 +23,7 @@ links:
 
 math: true
 ---
+D. Grant Campbell was born and raised in Niagara-on-the-Lake, Ontario; he completed his Honours BA in English at University of Toronto; his Master’s and PhD degrees in English Literature at Queen’s University; and his Master of Information Studies at University of Toronto. He spent 4 years working for North York Central Library, and taught courses at Queen’s,  U. of T., George Brown College and Dalhousie University before coming to Western in 1998. His research has primarily focused on knowledge organization; he has presented his research in Europe, the United States and South America, in English, French and Portuguese, and is currently writing a book on dementia and information for University of Toronto Press.
 
 D. Grant Campbell, Associate Professor
 
