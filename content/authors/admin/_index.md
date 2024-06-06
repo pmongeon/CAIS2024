@@ -319,7 +319,7 @@ For the 52nd annual conference of the Canadian Association for Information Scien
     <td rowspan=3><strong><a href="https://www.cais2024.ca/talk/Panel5/">Psychedelic Information Theory: A Systematic Exploration of Information During Altered Consciousness</a></strong><br>
         <i>Jenna Hartel, James L. Kent, Tim Gorichanaz and Keith Munro</i>
   </td>
-    <td rowspan=4> <a href="https://ubc.zoom.us/j/65266436731?pwd=L1dJRGwrYjNueldyUkFwZXZvc2dpUT09">Scholarly Communication </a>
+    <td rowspan=3> <a href="https://ubc.zoom.us/j/65266436731?pwd=L1dJRGwrYjNueldyUkFwZXZvc2dpUT09">Scholarly Communication </a>
     <td>11:00am - 11:30am</td>
     <td><strong><a href="https://www.cais2024.ca/talk/30.Demers/">Exploration of text mining techniques for the creation of ontologies to assist the synthesis of scientific knowledge</a></strong><br>
         <i>Camille Demers and Dominic Forest</i>
@@ -327,14 +327,14 @@ For the 52nd annual conference of the Canadian Association for Information Scien
   </tr>
 
   <tr> 
-    <td>11:40am - 12:10pm</td>
+    <td>11:30am - 12:00pm</td>
     <td><strong><a href="https://www.cais2024.ca/talk/32.Ayeni/">Leaps and Stumbles in the Application of Translation Technologies to Scholarly Communication</a></strong>&#x2b50;<br>
         <i>Philips Ayeni, Emanuel Kulczycki and Lynne Bowker</i>
   </td>
   </tr>
   
   <tr> 
-    <td>12:10pm - 12:20pm</td>
+    <td>12:00pm - 12:10pm</td>
     <td><strong><a href="https://www.cais2024.ca/talk/33.Poitras/">Comparing disciplinary classification systems: Approaches and considerations</a></strong><br>
         <i>Constance Poitras and Anton Boudreau Ninkov</i>
   </td>
